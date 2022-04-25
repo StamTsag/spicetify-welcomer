@@ -9,3 +9,5 @@
 ## Screenshots
 
 <p align='center'><img src='https://raw.githubusercontent.com/Shadofer/spicetify-welcomer/master/images/showcase.png' alt='Spicetify Welcomer showcase icon'></p>
+
+<p align='center'><img src='https://raw.githubusercontent.com/Shadofer/spicetify-welcomer/master/images/custom.png' alt='Spicetify Welcomer custom message icon'></p>
