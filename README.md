@@ -1,5 +1,7 @@
 <h1 align='center'>Spicetify Welcomer</h1>
 
+**A [spicetify](https://spicetify.app) extension**
+
 ## About
 
 **Welcomes you everytime you open Spotify!**
