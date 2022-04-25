@@ -12,5 +12,8 @@
     "@types/react": "^18.0.6",
     "@types/react-dom": "^18.0.2",
     "spicetify-creator": "^1.0.10"
+  },
+  "dependencies": {
+    "spcr-settings": "^1.0.2"
   }
 }
